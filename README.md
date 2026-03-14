@@ -7,7 +7,7 @@ Backend Systems • AI Tooling • Data Infrastructure
 
 ---
 
-## Focus
+## 🎯 Focus
 
 **Systems & Infrastructure**
 - Backend systems
@@ -20,7 +20,6 @@ Backend Systems • AI Tooling • Data Infrastructure
 **Data & Search**
 - Search engines and information retrieval
 - Systems that transform complex data into practical tools
-
 ---
 
 ## 🚀 Main Projects
