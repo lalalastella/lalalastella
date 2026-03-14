@@ -80,4 +80,5 @@ Data-driven products
 
 ## Connect
 
-LinkedIn: (add your LinkedIn here)
+LinkedIn: www.linkedin.com/in/stella-jiang-914380337
+Email：jyxsju@gmail.com
