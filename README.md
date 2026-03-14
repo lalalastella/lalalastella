@@ -7,11 +7,11 @@ Backend Systems • AI Tooling • Data Infrastructure
 
 ---
 
-## About Me
+## Focus
 
-I am a Computer Science student at UC Irvine interested in building backend systems, AI-powered tools, and large-scale data infrastructure.
+Backend systems, AI tooling, and large-scale data infrastructure.
 
-I enjoy turning complex data into practical systems, especially in areas like search engines, developer productivity, and AI-assisted workflows.
+Particularly interested in building systems that transform complex data into practical tools, including search engines, developer productivity systems, and AI-assisted workflows.
 
 ---
 
@@ -44,16 +44,6 @@ Stack: Python • Geospatial Analysis • Optimization
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🔬 Interests
-
-Backend Engineering  
-AI Infrastructure  
-Search Systems  
-Developer Tools  
-Data-Driven Products  
 
 ---
 
