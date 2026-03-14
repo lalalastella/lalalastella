@@ -26,7 +26,7 @@ AI-powered productivity system designed to help users break down complex tasks i
 - Focus and execution tracking  
 - Productivity analytics dashboard  
 
-**Tech**
+**Stack:**
 Python • Flask • React • LLM APIs
 
 ---
@@ -39,7 +39,7 @@ Full-stack system that converts unstructured activity streams into structured ta
 - AI-assisted micro-task decomposition  
 - Personal productivity analytics  
 
-**Tech**
+**Stack:**
 Python • Flask • React • LLM APIs
 
 ---
@@ -53,7 +53,7 @@ Disk-based search engine designed to index and retrieve large-scale web data eff
 - Query processing and ranking  
 - Optimized memory usage  
 
-**Tech**
+**Stack:**
 Python • Information Retrieval • Data Structures
 
 ---
@@ -66,7 +66,7 @@ System for optimizing EV charging station placement using geospatial data and op
 - Optimization modeling  
 - Data-driven infrastructure planning  
 
-**Tech**
+**Stack:**
 Python • Data Analysis • Optimization
 
 ---
