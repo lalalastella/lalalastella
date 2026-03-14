@@ -31,7 +31,7 @@ Python • Flask • React • LLM APIs
 
 ---
 
-### Mosaic – AI Productivity Platform
+### Mosaic – Personal Activity Intelligence Platform
 Full-stack system that converts unstructured activity streams into structured tasks using AI.
 
 **Features**
