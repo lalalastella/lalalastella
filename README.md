@@ -15,7 +15,7 @@ I enjoy building systems that turn complex data into practical tools, especially
 
 ---
 
-## Selected Projects
+## Main Projects
 
 ### Search Engine (Information Retrieval System)
 A disk-based search engine designed to index and retrieve large-scale web data efficiently.
