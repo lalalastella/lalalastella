@@ -15,116 +15,98 @@ I enjoy turning complex data into practical systems, especially in areas like se
 
 ---
 
-## What I'm Currently Working On
+## 🚀 Main Projects
 
-- AI-powered productivity systems and task orchestration tools  
-- Search and indexing systems for large-scale data  
-- Backend infrastructure and data pipelines  
-- Open source contributions and developer tooling  
-
----
-
-# Main Projects
-
-## FlowCrusade – AI System for Executive Function Support
-
-An AI-powered productivity system designed to help users break down complex tasks into structured micro-actions.
+### FlowCrusade – AI System for Executive Function Support
+AI-powered productivity system designed to help users break down complex tasks into structured micro-actions.
 
 **Features**
-
 - Voice-to-structure task pipeline  
 - AI micro-step generation  
 - Focus and execution tracking  
 - Productivity analytics dashboard  
 
-**Tech Stack**
-
+**Tech**
 Python • Flask • React • LLM APIs
 
 ---
 
-## Mosaic – AI Productivity Platform
+### Mosaic – AI Productivity Platform
+Full-stack system that converts unstructured activity streams into structured tasks using AI.
 
-A full-stack system that converts unstructured activity streams into structured tasks using AI.
-
-**Key Features**
-
+**Features**
 - Voice-to-structure task pipeline  
 - AI-assisted micro-task decomposition  
 - Personal productivity analytics  
 
-**Technologies**
-
+**Tech**
 Python • Flask • React • LLM APIs
 
 ---
 
-## AtlasSearch – Disk-Based Information Retrieval System
+### AtlasSearch – Disk-Based Information Retrieval System
+Disk-based search engine designed to index and retrieve large-scale web data efficiently.
 
-A disk-based search engine designed to index and retrieve large-scale web data efficiently.
-
-**Key Features**
-
-- Inverted index construction with disk-based partial indexing  
+**Features**
+- Inverted index construction  
+- Disk-based partial indexing  
 - Query processing and ranking  
-- Optimized memory usage for large datasets  
+- Optimized memory usage  
 
-**Technologies**
-
+**Tech**
 Python • Information Retrieval • Data Structures
 
 ---
 
-## ChargeMap – Data-Driven EV Charging Infrastructure Optimization
+### ChargeMap – Data-Driven EV Charging Infrastructure Optimization
+System for optimizing EV charging station placement using geospatial data and optimization models.
 
-A research project focused on optimizing electric vehicle charging station placement using geospatial data and optimization models.
-
-**Key Features**
-
+**Features**
 - Geospatial analysis  
 - Optimization modeling  
 - Data-driven infrastructure planning  
 
-**Technologies**
-
+**Tech**
 Python • Data Analysis • Optimization
 
 ---
 
-# Technical Skills
+## 🧠 Tech Stack
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Python • C/C++ • Java • JavaScript • SQL
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Backend & Systems**
-
-Flask • REST APIs • Distributed Systems • Data Pipelines
-
-**Data & AI**
-
-Pandas • Data Processing • Machine Learning Workflows
-
-**Tools**
-
-Git • Docker • Linux
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# Interests
+## 📊 GitHub Stats
+
+![Stella's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalalastella&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalalastella&layout=compact&theme=tokyonight)
+
+---
+
+## 🔬 Interests
 
 Backend Engineering  
 AI Infrastructure  
 Search Systems  
 Developer Tools  
-Data-Driven Products
+Data-Driven Products  
 
 ---
 
-# Connect
+## 📫 Connect
 
-LinkedIn  
-https://www.linkedin.com/in/stella-jiang-914380337
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stella%20Jiang-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stella-jiang-914380337)
 
-Email  
-jyxsju@gmail.com
+[![Email](https://img.shields.io/badge/Email-jyxsju%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyxsju@gmail.com)
