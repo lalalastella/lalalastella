@@ -55,7 +55,7 @@ Technologies: Python, data analysis, optimization
 ## Technical Skills
 
 Languages  
-Python, C++, Java, JavaScript, SQL
+Python, C/C++, Java, JavaScript, SQL
 
 Backend / Systems  
 Flask, REST APIs, data pipelines, distributed systems
