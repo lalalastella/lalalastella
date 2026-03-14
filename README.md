@@ -9,9 +9,17 @@ Backend Systems • AI Tooling • Data Infrastructure
 
 ## Focus
 
-Backend systems, AI tooling, and large-scale data infrastructure.
+**Systems & Infrastructure**
+- Backend systems
+- Large-scale data infrastructure
 
-Particularly interested in building systems that transform complex data into practical tools, including search engines, developer productivity systems, and AI-assisted workflows.
+**AI & Productivity Tools**
+- AI-powered developer tools
+- AI-assisted productivity systems
+
+**Data & Search**
+- Search engines and information retrieval
+- Systems that transform complex data into practical tools
 
 ---
 
