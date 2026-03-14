@@ -2,16 +2,16 @@
 
 <p align="center">
 Computer Science @ UC Irvine <br>
-Backend Systems • AI Tooling • Data Infrastructure
+Backend Systems • AI Systems • Data Infrastructure
 </p>
 
 ---
 
 ## 🎯 Focus
 
-- Backend and distributed systems engineering  
+- Backend and distributed systems  
 - AI-powered developer and productivity tools  
-- Data infrastructure and information retrieval systems
+- Data infrastructure and information retrieval
 ---
 
 ## 🚀 Main Projects
