@@ -17,57 +17,17 @@ I enjoy turning complex data into practical systems, especially in areas like se
 
 ## 🚀 Main Projects
 
-### FlowCrusade – AI System for Executive Function Support
-AI-powered productivity system designed to help users break down complex tasks into structured micro-actions.
+• **FlowCrusade** — AI-powered system that converts complex tasks into structured micro-actions for better execution.  
+Stack: Python • Flask • React • LLM Integration
 
-**Features**
-- Voice-to-structure task pipeline  
-- AI micro-step generation  
-- Focus and execution tracking  
-- Productivity analytics dashboard  
+• **Mosaic** — Personal activity intelligence platform that reconstructs digital activity streams into productivity insights.  
+Stack: Python • Flask • React • Data Pipelines
 
-**Stack:**
-Python • Flask • React • LLM APIs
+• **AtlasSearch** — Disk-based search engine implementing scalable indexing and ranked retrieval.  
+Stack: Python • Information Retrieval • Data Structures
 
----
-
-### Mosaic – Personal Activity Intelligence Platform
-Full-stack system that converts unstructured activity streams into structured tasks using AI.
-
-**Features**
-- Voice-to-structure task pipeline  
-- AI-assisted micro-task decomposition  
-- Personal productivity analytics  
-
-**Stack:**
-Python • Flask • React • LLM APIs
-
----
-
-### AtlasSearch – Disk-Based Information Retrieval System
-Disk-based search engine designed to index and retrieve large-scale web data efficiently.
-
-**Features**
-- Inverted index construction  
-- Disk-based partial indexing  
-- Query processing and ranking  
-- Optimized memory usage  
-
-**Stack:**
-Python • Information Retrieval • Data Structures
-
----
-
-### ChargeMap – Data-Driven EV Charging Infrastructure Optimization
-System for optimizing EV charging station placement using geospatial data and optimization models.
-
-**Features**
-- Geospatial analysis  
-- Optimization modeling  
-- Data-driven infrastructure planning  
-
-**Stack:**
-Python • Data Analysis • Optimization
+• **ChargeMap** — Data-driven system for optimizing EV charging infrastructure using geospatial analysis and optimization models.  
+Stack: Python • Geospatial Analysis • Optimization
 
 ---
 
