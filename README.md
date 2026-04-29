@@ -19,7 +19,7 @@ Backend Systems • AI Systems • Data Infrastructure
 • **FlowCrusade** — AI-powered system that converts complex tasks into structured micro-actions for better execution.  
 Stack: Python • Flask • React • LLM Integration
 
-• **Mosaic** — Personal activity intelligence platform that reconstructs digital activity streams into productivity insights.  
+• **Mosaic/ArtifiedSelf** — Personal activity intelligence platform that reconstructs digital activity streams into productivity insights.  
 Stack: Python • Flask • React • Data Pipelines
 
 • **AtlasSearch** — Disk-based search engine implementing scalable indexing and ranked retrieval.  
