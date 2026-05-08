@@ -23,10 +23,7 @@ Stack: Python • Flask • React • LLM Integration
 Stack: Python • Flask • React • Data Pipelines
 
 • **AtlasSearch** — Disk-based search engine implementing scalable indexing and ranked retrieval.  
-Stack: Python • Information Retrieval • Data Structures
-
-• **ChargeMap** — Data-driven system for optimizing EV charging infrastructure using geospatial analysis and optimization models.  
-Stack: Python • Geospatial Analysis • Optimization
+Stack: Python • Information Retrieval • Data Structures、
 
 ---
 
