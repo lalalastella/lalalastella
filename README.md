@@ -25,7 +25,7 @@
 
 | Project | What it does | Highlights |
 | --- | --- | --- |
-| [**FocusTrail**](https://github.com/PST-Protocol/FocusTrail) | Turns vague goals into structured task graphs with dependency-aware, event-driven scheduling and state recovery. | AI workflow orchestration · JavaScript |
+| [**FocusTrail**](https://github.com/lalalastella/FocusTrail) | Turns vague goals into structured task graphs with dependency-aware, event-driven scheduling and state recovery. | AI workflow orchestration · JavaScript |
 | [**Intent2Escrow**](https://github.com/lalalastella/Intent2Escrow) | Converts natural-language agreements into on-chain escrow workflows on Base. | AI + Web3 · **3rd Place, MSX Hackathon 2026** |
 | [**AtlasSearch**](https://github.com/lalalastella/AtlasSearch) | A disk-based search engine with scalable indexing and ranked retrieval. | Python · Information retrieval · Data structures |
 | [**Pantry-Agent**](https://github.com/lalalastella/Pantry-Agent) | Turns pantry inventory into practical, low-waste meal decisions with AI assistance. | TypeScript · AI product · Food management |
